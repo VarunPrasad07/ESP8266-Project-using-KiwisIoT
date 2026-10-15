@@ -1,0 +1,17 @@
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+*.out
+
+# Backup / temp files
+*.bak
+*.tmp
+*~
+
+# Editor / OS cruft
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
